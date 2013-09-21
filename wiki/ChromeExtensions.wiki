@@ -9,7 +9,7 @@
 
 <a href="https://chrome.google.com/webstore/detail/copy-title%20url-to-clipboa/hbnaclhngkhpmpgmfakaghgjbblokeeh" >Chrome 网上应用店 - Copy Title+URL to clipboard</a>
 
-<a href="https://chrome.google.com/webstore/detail/fawave/aicelmgbddfgmpieedjiggifabdpcnln" >Chrome 网上应用店 - FaWave[发微]</a>
+<a href="https://chrome.google.com/webstore/detail/fawave/aicelmgbddfgmpieedjiggifabdpcnln" >Chrome 网上应用店 - FaWave发微</a>
 
 <a href="https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm" >Chrome 网上应用店 - Proxy SwitchySharp</a>
 
