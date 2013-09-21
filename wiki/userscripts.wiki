@@ -2,7 +2,7 @@
 
 = Introduction =
 
-用户脚本userscripts推荐。`*`<a href="https://code.google.com/p/xdc/wiki/ChromeApp" >Chrome扩展推荐</a>
+用户脚本userscripts推荐。`*`<a href="https://code.google.com/p/xdc/wiki/ChromeExtensions" >Chrome扩展推荐</a>
 
 Chrome使用userscripts推荐先安装<a href="https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" >Tampermonkey</a>。
 
