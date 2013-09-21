@@ -2,7 +2,7 @@
 
 = Introduction =
 
-优秀的Chrome扩展推荐。
+优秀的Chrome扩展推荐。 `*`<a href="https://code.google.com/p/xdc/wiki/userscripts" >用户脚本userscripts推荐</a>
 
 
 = Details =
