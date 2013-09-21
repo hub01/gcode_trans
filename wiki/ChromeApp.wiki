@@ -16,3 +16,13 @@
 <a href="https://chrome.google.com/webstore/detail/screen-capture-by-google/cpngackimfmofbokmjmljamhdncknpmg" >Chrome 网上应用店 - 网页截图（由Google提供）</a>
 
 <a href="http://www.fishlee.net/soft/44/" >12306订票助手 - 鱼の后花园</a>
+
+<a href="https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom" >Chrome 网上应用店 - AdBlock</a>
+
+<a href="https://chrome.google.com/webstore/detail/bookit/gehmlgoogaikoilnkedbgipbjnammpdo" >Chrome 网上应用店 - 豆瓣读书 bookit</a>
+
+<a href="https://chrome.google.com/webstore/detail/chrome-office-viewer-beta/gbkeegbaiigmenfmjfclcdgdpimamgkj" >Chrome 网上应用店 - Chrome Office Viewer (Beta)</a>
+
+<a href="https://chrome.google.com/webstore/detail/color-piano/ihmigmmflfcbhdpdgbkkeojchjhhphnh" >Chrome 网上应用店 - Color Piano!</a>
+
+<a href="https://chrome.google.com/webstore/detail/fvd-video-downloader/lfmhcpmkbdkbgbmkjoiopeeegenkdikp" >Chrome 网上应用店 - FVD Video Downloader</a>
